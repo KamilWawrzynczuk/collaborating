@@ -18,7 +18,6 @@ Technologies in use:
 
 <img src="https://tinyurl.com/bdhnshpy" style="width: 220px;">
 
-
 # Recepie
 
 # Chocolate Chip Cookies
@@ -28,8 +27,8 @@ Technologies in use:
 ## Wet Ingredients
 
 - Butter | 2 sticks | Softened
-- Brown Sugar | 1 cup | 
-- Sugar | 1/2 cup white | 
+- Brown Sugar | 1 cup |
+- Sugar | 1/2 cup white |
 
 Mix together butter and sugar in a large bowl.
 
@@ -37,3 +36,34 @@ Mix together butter and sugar in a large bowl.
 
 - the colourless fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.
 - an ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at low pressures (as in the upper atmosphere and in fluorescent lamps) or at very high temperatures (as in stars and nuclear fusion reactors).
+
+## Bio
+
+- Name: `Slavy`
+- Age : `35`
+- Nationality: `Bulgarian`
+
+## Recepie
+
+### Braised Corned Beef Brisket:
+
+<br/>
+
+- [ ] 1 (5 pound) flat-cut corned beef brisket
+
+- [ ] 1 tablespoon browning sauce (such as Kitchen Bouquet®), or as desired
+
+- [ ] 1 tablespoon vegetable oil
+
+- [ ] 1 onion, sliced
+
+- [ ] 6 cloves garlic, sliced
+
+- [ ] 2 tablespoons water
+
+## a definition of a word to the readme of the repo
+
+### excited:
+
+- very enthusiastic and eager.
+  "they were excited about the prospect"
