@@ -2,8 +2,6 @@
 
 # Kamil Bio
 
-<img src="https://tinyurl.com/49wc2afm" style="border-radius: 50%; width: 200px;">
-
 # Kamil Wawrzyńczuk
 
 ## Web Dev
