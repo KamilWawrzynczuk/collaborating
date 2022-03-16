@@ -2,7 +2,7 @@
 
 # Kamil Bio
 
-<img src="https://tinyurl.com/2p9a4fr7" style="border-radius: 50%; width: 200px;">
+<img src="https://tinyurl.com/49wc2afm" style="border-radius: 50%; width: 200px;">
 
 # Kamil Wawrzyńczuk
 
